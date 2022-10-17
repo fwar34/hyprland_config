@@ -77,7 +77,7 @@
     "custom/power": {
          "format": "襤",
          "tooltip": false,
-         "on-click":"bash /home/rick/.config/hypr/scripts/wlogout",
+         "on-click":"bash $HOME/.config/hypr/scripts/wlogout",
     },
 
 	// waybar-disk
